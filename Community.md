@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Kumar Nirupam</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/KUMARNiru007</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/kumar-nirupam-83837a28b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IILM University , Greater Noida</td>
+  </tr>
+</table>
